@@ -1,0 +1,382 @@
+canonical_identifier: bkk:krp/KR6e0116/v1
+canonical_location: https://kanripo.org/bkk/KR6e0116/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 華嚴經文義記〔卷六〕
+  identifiers:
+    alt_id:
+    - X03n0211
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X03/X03n0211.xml
+    old_id: X03n0211
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0116_000.yaml, hash: 'sha256:23f30a0e0235a6c0993c53aa056fe47f4ee8b6731e2fd682cd39030f2a876ddb'}
+  - {seq: 6, filename: KR6e0116_006.yaml, hash: 'sha256:83230c10d827931d5e3db448c945829ca0780e739ffac410ed07c0ca4834cbb9'}
+  markers:
+  - {seq: 6, role: markers, filename: assets/KR6e0116_006.markers.yaml, hash: 'sha256:76305bfd37e1f523480c1a16a1fe33f29e752db2c5d85d64b8bf35121beeb9e5'}
+table_of_contents:
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 22222
+  label: 華嚴經文義記卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 師子奮迅城童女彌多羅尼第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-2
+    span:
+    - body
+    - 452
+    - 452
+  label: 救度國比丘善現第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-3
+    span:
+    - body
+    - 695
+    - 695
+  label: 輸那國童子名釋天主第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-4
+    span:
+    - body
+    - 805
+    - 805
+  label: 海住國優婆夷名自在第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-5
+    span:
+    - body
+    - 1243
+    - 1243
+  label: 大興城長者甘露頂第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-6
+    span:
+    - body
+    - 1472
+    - 1472
+  label: 師子重閣城長者法寶周羅第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-7
+    span:
+    - body
+    - 1647
+    - 1647
+  label: 實利根國普門城長者普眼妙香第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-8
+    span:
+    - body
+    - 1814
+    - 1814
+  label: 滿幢城滿足王第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-9
+    span:
+    - body
+    - 1930
+    - 1930
+  label: 善光城大光王第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-10
+    span:
+    - body
+    - 2090
+    - 2090
+  label: 安住城不動優婆夷第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-11
+    span:
+    - body
+    - 2578
+    - 2578
+  label: 不可稱國知足城出家外道名隨順一切眾生第二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-12
+    span:
+    - body
+    - 2806
+    - 2806
+  label: 甘露味國長者青蓮花香第二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-13
+    span:
+    - body
+    - 3150
+    - 3150
+  label: 樓閣城海師名自在第二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-14
+    span:
+    - body
+    - 3346
+    - 3346
+  label: 可樂城長者名無上勝第二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-15
+    span:
+    - body
+    - 3544
+    - 3544
+  label: 難忍國迦陵伽婆提城比丘尼名師子奮迅第二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-16
+    span:
+    - body
+    - 3591
+    - 3591
+  label: 國名嶮難城名寶莊嚴女人名婆須蜜多第二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-17
+    span:
+    - body
+    - 3767
+    - 3767
+  label: 城名首婆波羅長者名安住第二十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-18
+    span:
+    - body
+    - 3865
+    - 3865
+  label: 光明山觀世音菩薩第二十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-19
+    span:
+    - body
+    - 4244
+    - 4244
+  label: 東方菩薩名正趣來詣此金剛山頂第二十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-20
+    span:
+    - body
+    - 4414
+    - 4414
+  label: 城名婆羅婆提天名大天第二十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-21
+    span:
+    - body
+    - 4514
+    - 4514
+  label: 閻浮提內摩竭提國有道場神名安住第三十
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-22
+    span:
+    - body
+    - 4595
+    - 4595
+  label: 閻浮提內城名迦毗羅婆有夜天名婆婆婆陀第三十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-23
+    span:
+    - body
+    - 5255
+    - 5255
+  label: 閻浮提內有摩竭國有夜天名甚深妙德第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-24
+    span:
+    - body
+    - 5640
+    - 5640
+  label: 去此不遠如來右面有夜天名善目觀察眾生第三十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-25
+    span:
+    - body
+    - 6255
+    - 6255
+  label: 於此眾中主夜天名妙德救護眾生第三十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-26
+    span:
+    - body
+    - 8401
+    - 8401
+  label: 於此道場去我不遠夜天名寂靜音第三十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-27
+    span:
+    - body
+    - 10006
+    - 10006
+  label: 道場上如來眾中夜天名妙德守護諸城第三十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-28
+    span:
+    - body
+    - 10466
+    - 10466
+  label: 此佛眾中夜天名開敷樹華第三十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-29
+    span:
+    - body
+    - 11756
+    - 11756
+  label: 於此道場有夜天名願勇光明守護眾生第三十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-30
+    span:
+    - body
+    - 13225
+    - 13225
+  label: 此閻浮提有薗林名流彌尼有夜無名妙德圓滿三十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-31
+    span:
+    - body
+    - 14522
+    - 14522
+  label: 迦毗羅城有釋迦女名瞿夷四十
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-32
+    span:
+    - body
+    - 15752
+    - 15752
+  label: 此迦毗羅城摩耶夫人四十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-33
+    span:
+    - body
+    - 17308
+    - 17308
+  label: 國名海㵎薗林名大莊嚴藏彌勒菩薩四十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0116_X_006-mulu-34
+    span:
+    - body
+    - 20896
+    - 20896
+  label: 普門國普賢菩薩四十三
+  type: mulu
+  level: 1
+hash: sha256:cfa312e3437a8bfc7de6e387ed706bc56061e83a7eb007917a36867e0de1b51a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

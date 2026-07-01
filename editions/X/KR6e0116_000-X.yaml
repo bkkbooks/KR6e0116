@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0116/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴經文義記〔卷六〕
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X03/X03n0211.xml
+    old_id: X03n0211
+hash: sha256:23f30a0e0235a6c0993c53aa056fe47f4ee8b6731e2fd682cd39030f2a876ddb
