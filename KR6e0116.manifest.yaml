@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6e0116/v1
 canonical_location: https://kanripo.org/bkk/KR6e0116/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 華嚴經文義記〔卷六〕
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0116_000.yaml, hash: 'sha256:23f30a0e0235a6c0993c53aa056fe47f4ee8b6731e2fd682cd39030f2a876ddb'}
-  - {seq: 6, filename: KR6e0116_006.yaml, hash: 'sha256:25078ed2aaed4206d82a323c67a47d34150aefe8ca114855cddb10044e67e808'}
+  - {seq: 6, filename: KR6e0116_006.yaml, hash: 'sha256:bd6bfdd8ca86814dec070aad72369d75613a123f752974c98ea29364671d3901'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6e0116_000.markers.yaml, hash: 'sha256:9add8093a389803d2e2e89fa0ba41f8ad98fa34176acbccd79b393004d2772c2'}
-  - {seq: 6, role: markers, filename: assets/KR6e0116_006.markers.yaml, hash: 'sha256:e8dfae5e9c48f450023106db50041e65d430d73086375ef9cf2fbee3651d0cfc'}
+  - {seq: 6, role: markers, filename: assets/KR6e0116_006.markers.yaml, hash: 'sha256:7891981ce092889430e0cafc56658fa66ee4b692be692fd90d3631cdedf09351'}
 table_of_contents:
 - ref:
     seq: 6
@@ -377,4 +377,7 @@ table_of_contents:
   label: 普門國普賢菩薩四十三
   type: mulu
   level: 1
-hash: sha256:01b601502bb2a659e1547a72d22fa82d35ac8e45a3ccb89b4c20755ec8740eb9
+hash: sha256:4cf4501d1288fe21d9edeecfc68c34ed86ffe2a748c4ad0de93f72ce29af6c18
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
